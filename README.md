@@ -13,13 +13,15 @@
   </p>
   <br/>
 
+### Deployed using vercel - [https://pathwayy.vercel.app](https://pathwayy.vercel.app/login)
+
 
 ### Features
-- User authentication and authorization
-- Realtime messaging
-- Private messaging
-- Notifications for new messages
-- Responsive design
+User authentication and authorization<br>
+Realtime messaging<br>
+Private messaging<br>
+Notifications for new messages<br>
+Responsive design<br>
 <br>
 <br>
 
@@ -27,19 +29,20 @@
 ### Screenshots
 <br>
 
-![Image 1](https://res.cloudinary.com/dky3cpvtf/image/upload/v1702371817/React_App_and_1_more_page_-_Personal_-_Microsoft_Edge_04-06-2023_01_45_24_y9isok.png)
-
+![Image 1](/public/src/demo/1_register_page.png)
 <br><br>
 
-![Image 2](https://res.cloudinary.com/dky3cpvtf/image/upload/v1702371868/React_App_and_1_more_page_-_Personal_-_Microsoft_Edge_04-06-2023_01_50_59_wqqdkm.png)
-
+![Image 2](/public/src/demo/2_avatar_page.png)
 <br><br>
 
-![Image 3](https://res.cloudinary.com/dky3cpvtf/image/upload/v1702371878/React_App_and_1_more_page_-_Personal_-_Microsoft_Edge_04-06-2023_01_44_02_emlevd.png)
-
+![Image 3](/public//src/demo/3_login_page.png)
 <br><br>
 
-![Image 4](https://res.cloudinary.com/dky3cpvtf/image/upload/v1702371841/React_App_and_1_more_page_-_Personal_-_Microsoft_Edge_04-06-2023_01_45_18_s70ujk.png)
+![Image 4](/public/src/demo/4_chat_page.png)
+<br><br>
+
+![Image 5](/public/src/demo/5_sent_mesasge_page.png)
+<br><br>
 
 </div>
 
@@ -76,7 +79,7 @@ Before you begin contributing to this project, make sure you have the following 
 
 1. **Clone the Repository:**
    ```bash
-   git clone 
+   git clone https://github.com/akashpandit55900/realtime-chat-app.git
    ```
 2. **Install Dependencies:**
    ```bash
